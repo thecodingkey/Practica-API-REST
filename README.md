@@ -10,3 +10,8 @@ https://api.dvrosenvb.com/
 
 
 Las vistas deben quedar como se muestran a continuación.
+
+
+PRO-Tip: Utilizar la dependencia lottie para agregar animaciones.
+
+TOP CODE Challenge: generar la interfaz desde código. 
