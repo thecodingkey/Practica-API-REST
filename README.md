@@ -12,6 +12,8 @@ https://api.dvrosenvb.com/
 Las vistas deben quedar como se muestran a continuación.
 
 
-PRO-Tip: Utilizar la dependencia lottie para agregar animaciones.
+<img src="https://github.com/thecodingkey/media/blob/main/02.png" style="float: left; margin-right: 10px;" />   <img src="https://github.com/thecodingkey/media/blob/main/01.png" style="float: left; margin-right: 10px;" />
 
-TOP CODE Challenge: generar la interfaz desde código. 
+⭐️ PRO-Tip: Utilizar la dependencia lottie para agregar animaciones.
+
+🏆 TOP CODE Challenge: generar la interfaz desde código. 
